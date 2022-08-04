@@ -2,7 +2,7 @@ import React, { useState } from "react";
 cb dhjvjdvcdvhb
 import ProductTable from "./ProductTable";
 import SearchBar from "./SearchBar";
-
+ghvggjvjcjgc
 import { PRODUCTS } from "./products";
 
 const FilterableProductTable = props => {
